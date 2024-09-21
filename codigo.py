@@ -1,4 +1,4 @@
-nombre ="santy"
+nombre ="santyyy"
 apellido ="zin"
 
 saludo = "hola "+nombre+" "+apellido+"como estas?"
