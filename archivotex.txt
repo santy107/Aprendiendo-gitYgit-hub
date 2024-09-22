@@ -1,1 +1,3 @@
 Soy un Nuevo archivo agregado desde git hub ,soy el mismo texto editado desde mi repo local para subir con push al remoto
+
+archivo editado desde la rama principal master
